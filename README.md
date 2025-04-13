@@ -1,6 +1,6 @@
 # 🎵 Spotify Interface Clone - Imersão Alura
 
-![Spotify Clone Preview](./src/assets/playlist/1.jpeg)
+![Spotify Clone Preview](spotify.jpeg)
 
 Clone responsivo da interface do Spotify desenvolvido como projeto educativo durante a Imersão Alura, implementando as principais funcionalidades visuais da plataforma.
 
